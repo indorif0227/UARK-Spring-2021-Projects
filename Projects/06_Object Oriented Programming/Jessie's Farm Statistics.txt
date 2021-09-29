@@ -1,0 +1,8 @@
+Statistics
+Your average profit is: $1562.20
+Number of fields by crop:
+3| Wheat
+2| Potato
+2| Pumpkin
+3| Beet
+You can still plant 5 more fields.
